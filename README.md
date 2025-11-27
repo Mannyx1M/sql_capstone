@@ -184,5 +184,6 @@ LIMIT 20;
  # Key areas  to improve
  - This project works as intended, but the use of Tableau to visualize data more clearly is a weakness I am currently working on.
  - Still learning how sql wokrs and the structure behind it but however am improving and passionate on it.
+
  - This project can use other databases that I can work on, but I focused on one skill and should be more comfortable working with more than one job title.
 
