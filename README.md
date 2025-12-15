@@ -8,7 +8,7 @@
 So the reason for this project was to better understand what the job market looks like for Data Analyst roles in 2023. I wanted to explore which skills employers are looking for the most, which roles offer the highest salaries, and how different skills impact both pay and demand. By breaking the data down using SQL, I was able to get a clearer picture of what is happening in the industry and what skills are worth focusing on for career growth.
 
  # Tools I Used 
- - SQl: Used it to query the database and extract ket insights form the job posting data.
+ - SQL: Used it to query the database and extract ket insights form the job posting data.
  - PostgreSQL: This is the database management system used to store and manage the dataset efficiently.
  - Tableau: This turned the analysis into more of a visual representation, making it easier to read and notice the trends happening.
  - Visual studio code: This was the IDE used for database mannagement and executing sql files .
